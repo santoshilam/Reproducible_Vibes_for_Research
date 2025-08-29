@@ -20,6 +20,7 @@ The plan going forward is to adapt the course that has already been created for 
 If you would like to collaborate on this project and/or be part of the proposal submission in any capacity please do so by **joining as a collaborator** on this repository. You can also reach us directly, (emails not directly given here for privacy reasons).
 
 Santosh Ilamparuthi - [Data Steward TU Delft](https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards)
+
 Olga Minaeva - [DCC Coordinator and trainer of innovative digital techniques at NWO-I](https://www.nwo-i.nl/en/persoon/olga-minaeva/)
 
 ## License
