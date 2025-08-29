@@ -16,6 +16,7 @@ While there are plenty of youtube videos and tutorials extolling the virtues of 
 
 The plan going forward is to adapt the course that has already been created for the current AI Assisted coding needs. The course needs to be updated as some of the tools and guidelines are no longer relevant. The course should also be updated with further community input. To do this, it is proposed that this project be submitted to the TDCC-NES 2026 call. We are looking for partners to move forward with this submission. 
 
+## Contact and Collaboration
 If you would like to collaborate on this project and/or be part of the proposal submission in any capacity please do so by **joining as a collaborator** on this repository. You can also reach us directly, (emails not directly given here for privacy reasons).
 
 Santosh Ilamparuthi - [Data Steward TU Delft](https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards)
