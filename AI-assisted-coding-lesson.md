@@ -4,4 +4,4 @@ This interactive workshop “AI-assisted Coding with Codeium” is designed for 
 
 This hands-on session is perfect for anyone who wants to simplify their coding process, save time, and write cleaner, more efficient code. By the end, you will have the skills you need to integrate AI into your coding practice with confidence. Basic programming knowledge and experience with a code editor such as VS Code are recommended.
 
-[Visit the lesson on the Carpentries Incubator](https://github.com/carpentries-incubator/gen-ai-coding).
+[Visit the lesson on the Carpentries Incubator](https://carpentries-incubator.github.io/gen-ai-coding/).
