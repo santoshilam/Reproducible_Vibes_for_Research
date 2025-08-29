@@ -66,53 +66,53 @@ Challenges:
 
 - **Main problem:** People that have no specific training in software still need to write some code here and there anyway. However, usually that happens very inefficiently, and they might end up struggling a lot and hating coding because of that.
     
-- **Solution:** LLM-based code assistants can help with this. Researchers are going to use these tools anyway, so we might as well teach them about the tool, how to use it, what they should and shouldn’t use it for, etc.
+    - **Solution:** LLM-based code assistants can help with this. Researchers are going to use these tools anyway, so we might as well teach them about the tool, how to use it, what they should and shouldn’t use it for, etc.
     
 - **Topics to address:**
     
-- Ethics about the usage of LLMs
+    - Ethics about the usage of LLMs
     
-- Sustainability concerns (huge energy consumption for relatively simple tasks that could be achieved without them).
+        - Sustainability concerns (huge energy consumption for relatively simple tasks that could be achieved without them).
     
-- Recognition and attribution of authorship when the work includes a (potential large) amount of LLM-generated content.
+        - Recognition and attribution of authorship when the work includes a (potential large) amount of LLM-generated content.
     
-- Identification, citation and acknowledgements for LLM-generated code: it is currently very difficult (if not impossible) to keep track of which contributions were made by an AI; a mechanism for being able to share them (ideally, at least in certain cases, also to assign them a persistent identifier) and even add them to the reference list.
+        - Identification, citation and acknowledgements for LLM-generated code: it is currently very difficult (if not impossible) to keep track of which contributions were made by an AI; a mechanism for being able to share them (ideally, at least in certain cases, also to assign them a persistent identifier) and even add them to the reference list.
     
-- Some of these topics are very deep and would make the course exceedingly lengthy. We should mention that they may constitute an ethical issue, while also giving a broader view of the landscape. We should do this as a word of warning, not with the intent of providing a comprehensive answer to those issues.
+    - Some of these topics are very deep and would make the course exceedingly lengthy. We should mention that they may constitute an ethical issue, while also giving a broader view of the landscape. We should do this as a word of warning, not with the intent of providing a comprehensive answer to those issues.
     
-- For example: shifting responsibilities for carbon emissions to the end-users has been a widespread tactic from big corporations, whose ability to cut emissions in their industrial processes is several orders of magnitude higher than that of the average citizen. We should acknowledge that both of this perspectives exist, and let the students dive more into the topic elsewhere.
+        - For example: shifting responsibilities for carbon emissions to the end-users has been a widespread tactic from big corporations, whose ability to cut emissions in their industrial processes is several orders of magnitude higher than that of the average citizen. We should acknowledge that both of this perspectives exist, and let the students dive more into the topic elsewhere.
     
-- Security concerns regarding the management of the data and information that the LLM has access to. This is especially relevant when dealing with personal and sensitive data.
+    - Security concerns regarding the management of the data and information that the LLM has access to. This is especially relevant when dealing with personal and sensitive data.
     
-- Locally self-hosted LLMs: this directly addresses the previous point about security, among other aspects.
+    - Locally self-hosted LLMs: this directly addresses the previous point about security, among other aspects.
     
-- It is definitely a must, given our context in open science. Furthermore, this links with other similar areas such as _digital sovereignty,_ that are currently very relevant in the European policy domain.
+        - It is definitely a must, given our context in open science. Furthermore, this links with other similar areas such as _digital sovereignty,_ that are currently very relevant in the European policy domain.
     
-- A distinction should be made about the different degrees of openness of LLMs: from completely closed or proprietary, to open-weights, or fully open-source (disclosing also which training strategy and datasets were used).
+        - A distinction should be made about the different degrees of openness of LLMs: from completely closed or proprietary, to open-weights, or fully open-source (disclosing also which training strategy and datasets were used).
     
-- Some universities and institutions are already trying to self-host LLMs in the Netherlands. There is a proposal for open source LLMs hosted at SURF.
+        - Some universities and institutions are already trying to self-host LLMs in the Netherlands. There is a proposal for open source LLMs hosted at SURF.
     
-- Usage examples
+    - Usage examples
     
-- Do’s:
+        - Do’s:
     
-- Mechanical and repetitive tasks such as refactoring, generating templates, structuring directories and file organisations, boilerplate code and base documentation.
+            - Mechanical and repetitive tasks such as refactoring, generating templates, structuring directories and file organisations, boilerplate code and base documentation.
     
-- Debugging, code reviewing, “pair-programming”.
+            - Debugging, code reviewing, “pair-programming”.
     
-- Translating code between different languages.
+            - Translating code between different languages.
     
-- Don’ts:
+        - Don’ts:
     
-- Generation of large chunks of code.
+            - Generation of large chunks of code.
     
-- Accepting code without review or testing.
+            - Accepting code without review or testing.
     
-- Including sensitive data or information.
+            - Including sensitive data or information.
     
-- Not checking the institutional policy on the use of AI.
+            - Not checking the institutional policy on the use of AI.
     
-- Difference between LLM code assistants, and other tools such as code linters, formatters, debuggers, etc. Also between AI-enabled code editors, the AI models themselves, and even an overview of different families of LLMs and their different versions (and how this development-deployment cycle usually works).
+    - Difference between LLM code assistants, and other tools such as code linters, formatters, debuggers, etc. Also between AI-enabled code editors, the AI models themselves, and even an overview of different families of LLMs and their different versions (and how this development-deployment cycle usually works).
     
 
 #### _TDCC NES proposal_
@@ -121,24 +121,24 @@ Challenges:
     
 - Addressing the problem of sustainable software:
     
-- Due to how easily LLMs can be accessed, people are using them for all sorts of tasks before even evaluating other options, and without consulting relevant resources about best practices in software development (as well as data stewards and DCCs, etc). They are, therefore, skipping an important skill that they should learn and should be part of their toolkit.
+    - Due to how easily LLMs can be accessed, people are using them for all sorts of tasks before even evaluating other options, and without consulting relevant resources about best practices in software development (as well as data stewards and DCCs, etc). They are, therefore, skipping an important skill that they should learn and should be part of their toolkit.
     
-- As part of the project, we propose to teach people how to use LLM-assisted coding properly: what they should use it for, what they shouldn’t, what are the limits of these tools, and how they should be complemented with other skills and tools.
+    - As part of the project, we propose to teach people how to use LLM-assisted coding properly: what they should use it for, what they shouldn’t, what are the limits of these tools, and how they should be complemented with other skills and tools.
     
-- For example, LLM can be used to generate templates and placeholders following good software practices, such as a base code repository with a well-structured README, a license, a CONTRIBUTING.md file, a coherent directory for the scripts, etc.
+        - For example, LLM can be used to generate templates and placeholders following good software practices, such as a base code repository with a well-structured README, a license, a CONTRIBUTING.md file, a coherent directory for the scripts, etc.
     
-- Or, as part of the course, students can learn how to check the resulting code of LLM-interactions against the best practices and requirements by their DCCs.
+    - Or, as part of the course, students can learn how to check the resulting code of LLM-interactions against the best practices and requirements by their DCCs.
     
 - Difference with existing resources
     
-- Most universities have some existing guidelines on whether use of AI is allowed, when is it okay, and warnings about ethical considerations. However, everything is kept at a very general level, and no practical guidelines are provided on how to actually leverage LLMs.
+    - Most universities have some existing guidelines on whether use of AI is allowed, when is it okay, and warnings about ethical considerations. However, everything is kept at a very general level, and no practical guidelines are provided on how to actually leverage LLMs.
     
-- Here, we propose a practical course where participants follow instructions on how to use LLMs for coding. The course is therefore hands-on, and the skills and insights taken from the course are actionable for their academic career.
+    - Here, we propose a practical course where participants follow instructions on how to use LLMs for coding. The course is therefore hands-on, and the skills and insights taken from the course are actionable for their academic career.
     
 - Why NES
     
-- While the availability of LLMs is transversal across disciplines, and therefore, also occurs in other communities apart from NES, it is in NES where this problem is the most acute. Most researchers within NES disciplines have already a basic coding training, and therefore, are more empowered to (mis)use LLM-assisted coding.
+    - While the availability of LLMs is transversal across disciplines, and therefore, also occurs in other communities apart from NES, it is in NES where this problem is the most acute. Most researchers within NES disciplines have already a basic coding training, and therefore, are more empowered to (mis)use LLM-assisted coding.
     
-- Consequently, it is the community where most code is generated, and therefore, where the potential influence of LLMs—for good or bad—is the greatest.
+    - Consequently, it is the community where most code is generated, and therefore, where the potential influence of LLMs—for good or bad—is the greatest.
     
 - On one hand, a community were basic coding skills are widespread is a requirement for this, of which NES is the best candidate. Conversely, providing the NES community with good practices for using LLMs can therefore have the most impact as compared to others. Thirdly, as it may happen in other technical topics, the NES community can be the model for how things should be done, and other less technically-focused communities will follow suit.
