@@ -12,7 +12,13 @@ The use of AI assited coding has rapidly grown, with the level of assitance vari
 While these challenges exist, every crisis is an opportunity and if the wave of AI assisted coding can be guided in the right direction we stand to benefit greatly by way of easier debugging, standardised codew with better documentation and equipping researchers with better know how to produce high quality research software in collaboration with research software engineers. 
 
 ## Proposed solution
-While there are plenty of youtube videos and tutorials extolling the virtues of every coding assistant under the sun, a consolidated and sober approach to these tools which keeps researchers' needs in mind was not easily found. In discussing possible ways to address the need for resources and training for AI assited coding and data management, a [carpentries incubator course](https://carpentries-incubator.github.io/gen-ai-coding/) that had already been created by NWO-I and the e-science center was the most promising. The details of this course are available in the [Ai-course document](Ai-course-document.md). 
+While there are plenty of youtube videos and tutorials extolling the virtues of every coding assistant under the sun, a consolidated and sober approach to these tools which keeps researchers' needs in mind was not easily found. In discussing possible ways to address the need for resources and training for AI assited coding and data management, a [carpentries incubator course](https://carpentries-incubator.github.io/gen-ai-coding/) that had already been created by NWO-I and the e-science center was the most promising. The details of this course are available in the [Ai-course document](AI-assisted-coding-lesson.md). 
+
+The plan going forward is to adapt the course that has already been created for the current AI Assisted coding needs. The course needs to be updated as some of the tools and guidelines are no longer relevant. The course should also be updated with further community input. To do this, it is proposed that this project be submitted to the TDCC-NES 2026 call. We are looking for partners to move forward with this submission. 
+
+If you would like to collaborate on this project and/or be part of the proposal submission in any capacity please do so by joining as a collaborator on this repository. You can alos reach us directly, 
+Santosh Ilamparuthi - [Data Steward TU Delft](https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards)
+
 
 ## License
 [MIT License](https://opensource.org/license/mit)
