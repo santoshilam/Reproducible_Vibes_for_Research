@@ -13,3 +13,6 @@ While these challenges exist, every crisis is an opportunity and if the wave of 
 
 ## Proposed solution
 While there are plenty of youtube videos and tutorials extolling the virtues of every coding assistant under the sun, a consolidated and sober approach to these tools which keeps researchers' needs in mind was not easily found. In discussing possible ways to address the need for resources and training for AI assited coding and data management, a [carpentries incubator course](https://carpentries-incubator.github.io/gen-ai-coding/) that had already been created by NWO-I and the e-science center was the most promising. The details of this course are available in the Ai-course document. 
+
+## License
+[MIT License](https://opensource.org/license/mit)
