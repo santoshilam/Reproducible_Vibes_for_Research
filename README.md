@@ -23,5 +23,7 @@ Santosh Ilamparuthi - [Data Steward TU Delft](https://www.tudelft.nl/en/library/
 
 Olga Minaeva - [DCC Coordinator and trainer of innovative digital techniques at NWO-I](https://www.nwo-i.nl/en/persoon/olga-minaeva/)
 
+Julian Lopez Gordillo - [Data Specialist @ Naturalis Biodiversity Center](https://www.linkedin.com/in/julian-lopez-gordillo/)
+
 ## License
 [MIT License](https://opensource.org/license/mit)
